@@ -132,7 +132,6 @@ It does not constitute financial advice or investment recommendations.
 Trading involves substantial risk.
 
 ---
-https://www.codemot.com
+© Mot Model™ AI Quantitative Trading 
 
-© Mot Model™ AI Quantitative Trading Engine  
-Multi-Objective Time Decision System
+https://www.codemot.com
